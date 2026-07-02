@@ -8,7 +8,7 @@ class ResPartner(models.Model):
     _inherit = 'res.partner'
 
     # Cấu hình SendGrid
-    API_KEY = "" 
+    API_KEY = "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" 
     FROM_EMAIL = "nguyenthiquynhnhu26092005@gmail.com"
 
     # Hàm hỗ trợ gửi API (Dùng chung)
